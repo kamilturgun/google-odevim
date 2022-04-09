@@ -1,0 +1,65 @@
+.card{
+    text-align: center;
+  }
+  
+  .cardsearch{
+  background-color: rgb(209, 210, 206);
+  width: 1220px;
+  
+  
+  
+  }
+  .bg-red{
+    background-color: rgb(255, 0, 0);
+  }
+  
+  input{
+      width: 287px;
+      margin: 3px;
+      /*padding: 51px;*/
+  
+  }
+  
+  
+  .mavicard{
+    background-color:#7ee5da;
+  
+  }
+  
+  .bax1{
+    margin-left: 9%;
+    margin-right:9%;
+  }
+  
+  .mcard1{
+    width: 457px; 
+    
+    text-align: center;
+  
+  }
+  .mcard2{
+    width: 300px;
+    
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .mcard3{
+    width: 460px;
+    
+    text-align: center;
+    
+  
+  }
+  .bax2{
+  
+  
+    display: flex;
+    flex-direction: row;
+  }
+  .ml{
+    margin-left: 2px;
+  }
+  .fx{
+    margin-top: 2px;
+  }
